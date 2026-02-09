@@ -3,5 +3,5 @@ This repository tracks my transformation into an AI Implementation Specialist. E
 
 ## 🚀 Progress
 - [x] **Day 1:** Advanced Prompt Engineering (Haiti Grow Project)
-- [ ] **Day 2:** Chain-of-Thought Logic
+- [ x] **Day 2:** Chain-of-Thought Logic
 - [ ] **Day 3:** Variable-Based Templates
