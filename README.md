@@ -5,4 +5,5 @@ This repository tracks my transformation into an AI Implementation Specialist. E
 - [x] **Day 1:** Advanced Prompt Engineering (Haiti Grow Project)
 - [x] **Day 2:** Chain-of-Thought Logic
 - [x] **Day 3:** Variable-Based Templates
-- [x] **Day 4:** Prompt Chaining (KreyolAIHub Workflow)      
+- [x] **Day 4:** Prompt Chaining (KreyolAIHub Workflow)
+- [x]    
