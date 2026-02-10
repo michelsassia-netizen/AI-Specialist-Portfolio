@@ -6,4 +6,4 @@ This repository tracks my transformation into an AI Implementation Specialist. E
 - [x] **Day 2:** Chain-of-Thought Logic
 - [x] **Day 3:** Variable-Based Templates
 - [x] **Day 4:** Prompt Chaining (KreyolAIHub Workflow)
-- [x]    
+- [x] **Day 5:** System Instructions (KreyolAIHub Persona)
