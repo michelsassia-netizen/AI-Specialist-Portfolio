@@ -7,3 +7,4 @@ This repository tracks my transformation into an AI Implementation Specialist. E
 - [x] **Day 3:** Variable-Based Templates
 - [x] **Day 4:** Prompt Chaining (KreyolAIHub Workflow)
 - [x] **Day 5:** System Instructions (KreyolAIHub Persona)
+- [x] **Day 6:** Few-Shot Prompting (KreyolAIHub Brand Voice)
