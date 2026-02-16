@@ -14,3 +14,4 @@ This repository tracks my transformation into an AI Implementation Specialist. E
 - [x] **Day 10:** Fact-Checking & Hallucination Defense
 - [x] **Day 11:** Advanced Web Research & Real-Time Intelligence
 - [x] **Day 12:** Sentiment & Trend Analysis
+- [x] **Day 13:** Bias Detection & Cultural Alignment
