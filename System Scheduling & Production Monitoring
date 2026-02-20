@@ -1,0 +1,7 @@
+Technical Milestone: Transitioned the KreyolAI Mentor pipeline from manual "Run Once" execution to autonomous background polling.
+
+Infrastructure Logic: Configured a 15-minute scheduling interval to balance system responsiveness with API quota management.
+
+Error Handling: Diagnosed and mitigated RuntimeError [404] by identifying stale Thread IDs and correcting variable mapping from "Bundles" to specific email strings.
+
+Resource Management: Verified a 97.3% credit availability on the Make.com dashboard to support long-term autonomous operations.
