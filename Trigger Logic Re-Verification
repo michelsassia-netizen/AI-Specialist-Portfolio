@@ -1,0 +1,7 @@
+Technical Milestone: Implemented dynamic personalization by mapping Sender: Name variables to the response body.
+
+Logic Optimization: Refined AI System Instructions to enable automatic language detection (English/Kreyol) for bilingual support.
+
+Thread Management: Standardized subject line continuity using Re: [Subject] mapping to ensure professional email threading.
+
+Validation: Confirmed "Handshake" integrity by re-building the trigger from a clean state.
