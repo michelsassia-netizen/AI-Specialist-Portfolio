@@ -1,0 +1,5 @@
+Technical Milestone: Upgraded the KreyolAI trigger logic from single-entry to batch processing by increasing the module Limit to 10.
+
+System Hardening: Implemented an Error Handling directive (Ignore/Resume) to prevent scenario stoppage during RuntimeError events.
+
+Efficiency: Optimized API calls by allowing the Gemini module to iterate through multiple bundles in a single execution cycle.
